@@ -1,0 +1,10 @@
+{
+  "server": {
+    "port": 9000
+  },
+  "dbUrl": "mongodb://127.0.0.1:27017/IPANGRAM",
+  "secretKey": "secretKey",
+  "saltRounds": 10,
+  "uploadUrl": "/uploads/",
+  "staticFilesUrl": "http://localhost:9000/"
+}
